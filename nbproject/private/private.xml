@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/controller/ErrorManagerServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/web/cart.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/web/add_category.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/controller/admin/OrderDetailServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/controller/ProcessServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/web/orderdetail.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/web/manager.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/controller/CheckOutServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/common/MailUtils.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/common/InOutUtils.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/controller/admin/AddCategoryServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/web/orderstatistic.jsp</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/HolaCafeteria/src/java/filter/FilterForCURD.java</file>
+        </group>
+    </open-files>
+</project-private>
